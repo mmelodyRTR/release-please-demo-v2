@@ -7,3 +7,4 @@ ci: boo
 chore: 123
 test: 123
 feat: 2
+docs: 1
