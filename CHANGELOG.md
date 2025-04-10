@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.1.0](https://github.com/mmelodyRTR/release-please-demo-v2/compare/v1.0.0...v1.1.0) (2025-04-10)
+
+
+### Features
+
+* add ability to override merged commit message ([5cf6034](https://github.com/mmelodyRTR/release-please-demo-v2/commit/5cf6034a396255a96293bab87518c4eb04d2154f))
+
+
+### Tests
+
+* 123 ([fe3a2e5](https://github.com/mmelodyRTR/release-please-demo-v2/commit/fe3a2e502b3805f9d6fbc696caa904e75f05ae2f))
+
+
+### Continuous Integration
+
+* update release please ([1dfdaf2](https://github.com/mmelodyRTR/release-please-demo-v2/commit/1dfdaf20a2f1f48692c5447b1968acc6523b0ea1))
+
+
+### Miscellaneous Chores
+
+* 123 ([4043e59](https://github.com/mmelodyRTR/release-please-demo-v2/commit/4043e59eb05d6503c841daf51f078e54c73e4ff7))
+
 ## 1.0.0 (2025-04-09)
 
 
