@@ -2,6 +2,10 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+    inputs:
+      foo:
+        type: string 
 
 permissions:
   contents: write
@@ -15,4 +19,5 @@ jobs:
     steps:
       - uses: googleapis/release-please-action@v4
         with:
+          release-type: ${{ inputs.foo|| '' }}
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
